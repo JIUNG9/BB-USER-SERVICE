@@ -1,7 +1,11 @@
 # Blooming-blooms MICROSERVICE.USER-SERVICE
 
 ## Description
-This is the Blooming-blooms user-service. 
+This is the Blooming-blooms user-service, which is related to the Blooming blooms auth-service (related: https://github.com/JIUNG9/BB-AUTH-SERVICE). The user entity's lifecycle depends on the auth-service entity The user service get request from the auth-service about creation and deletion
+
+
+
+
 
 
 ## API Documentation
